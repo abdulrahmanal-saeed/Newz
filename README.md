@@ -1,16 +1,75 @@
-# newz
+<h1 align="center" id="title">Newz - Flutter News Application</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/abdulrahmanal-saeed/Newz/image?description=1&amp;descriptionEditable=Newz%20is%20a%20news%20application%20built%20with%20Flutter%20that%20uses%20the%20MVVM%20architecture%20pattern.%20The%20app%20fetches%20news%20from%20various%20sources%2C%20allowing%20users%20to%20browse%20different%20categories%20and%20save%20their%20favorite%20articles%20for%20later.&amp;font=Inter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;theme=Dark" alt="project-image"></p>
 
-## Getting Started
+<p id="description">Newz is a news application built with Flutter that uses the MVVM architecture pattern. The app fetches news from various sources allowing users to browse different categories and save their favorite articles for later.</p>
 
-This project is a starting point for a Flutter application.
+<h2>Project Screenshots:</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="https://drive.google.com/file/d/1RLnwtC1hdOdWtaLUcP67I3jcsQPYKDJ_/view?usp=drivesdk" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RNyVHeUnDbtPNLBWmGJhu5fZuSob8kgT/view?usp=drivesdk" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RPYdw-3cfEiGqfvzDe77taMNt642kLNQ/view?usp=drivesdk" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RS738ORjLfF2EX2VzAKR0YNlZ5jzycA0/view?usp=drivesdk" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RTCsnUGRNRJ3m_5stv-Q28qZ4iExHIah/view?usp=drivesdk" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RUgsK7lFjehDbeZi2mKMhljnfdWt7hKT/view?usp=drivesdk" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RUsikSaN6benlpOK70bnP3AsW2R5A-Om/view?usp=drivesdk" width="200" height="400"/>
+</p>
+  
+  
+<h2>🧐 Features</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here are some of the project's best features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*   **MVVM Architecture**: Organized using MVVM for better maintainability and testability.
+*   **News Display**: Shows news articles from various sources using the News API.
+*   **Browse by Categories**: Users can browse news articles by categories like Sports, Technology, Health, Business, and Science.
+*   **Save Articles**: Allows users to save articles to read later.
+*   **Custom UI**: Elegant and user-friendly design with support for dark mode.
+*   **Custom Notifications**: Sends notifications to users about the latest news updates.
+*   **Smooth Navigation**: Easy-to-use UI with transitions between different sections of the app.
+*   **Offline Support**: Save articles for reading without an internet connection.
+
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone the repository:</p>
+
+```
+git clone https://github.com/abdulrahmanal-saeed/newz.git
+```
+```
+ cd newz
+```
+<p>2. Add your API Key:</p>
+Open `api/api_constants.dart` and add your API key:
+
+```dart
+class ApiConstants {   
+  static String apiKey = 'YOUR_NEWS_API_KEY'; 
+}
+```
+
+<p>3. Run the app:</p>
+
+```
+flutter run
+```
+
+<h2>🍰 Contribution Guidelines:</h2>
+
+Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
+
+  
+  
+<h2>💻 Built with</h2>
+Technologies used in the project:
+
+*   **Flutter:** The main framework used for building the cross-platform application.
+*   **MVVM Structure:** For better code organization and separation of concerns.
+*   **Provider:** For state management.
+*   **HTTP:** For making HTTP requests to fetch data.
+*   **Shared Preferences:** For storing saved articles locally.
+*   **URL Launcher:** For opening article URLs in the browser.
+*   **Timeago:** For displaying dates in a "time ago" format like "1 hour ago".
+*   **Share Plus:** For sharing articles with others.
