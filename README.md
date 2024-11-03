@@ -4,6 +4,9 @@
 
 <p id="description">Newz is a news application built with Flutter that uses the MVVM architecture pattern. The app fetches news from various sources allowing users to browse different categories and save their favorite articles for later.</p>
 
+
+<p align="center"><img src="https://img.shields.io/badge/Download-Now?style=for-the-badge&amp;logo=flutter&amp;logoColor=blue&amp;labelColor=Red&amp;color=%23F44336&amp;link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1NqqBQbkM8pyr8xictwnX4Pec8hTngu3Z%2Fview%3Fusp%3Dsharing" alt="shields"></p>
+
 <h2>Project Screenshots:</h2>
 
 <p align="center">
@@ -27,8 +30,10 @@ Here are some of the project's best features:
 *   **Save Articles**: Allows users to save articles to read later.
 *   **Custom UI**: Elegant and user-friendly design with support for dark mode.
 *   **Custom Notifications**: Sends notifications to users about the latest news updates.
-*   **Smooth Navigation**: Easy-to-use UI with transitions between different sections of the app.
+*   **Smooth Navigation**: Easy-to-use UI with transitions between different app sections.
 *   **Offline Support**: Save articles for reading without an internet connection.
+
+<p align="center"><img src="https://img.shields.io/badge/Download-Now?style=for-the-badge&amp;logo=flutter&amp;logoColor=blue&amp;labelColor=Red&amp;color=%23F44336&amp;link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1NqqBQbkM8pyr8xictwnX4Pec8hTngu3Z%2Fview%3Fusp%3Dsharing" alt="shields"></p>
 
 
 <h2>🛠️ Installation Steps:</h2>
@@ -73,3 +78,5 @@ Technologies used in the project:
 *   **URL Launcher:** For opening article URLs in the browser.
 *   **Timeago:** For displaying dates in a "time ago" format like "1 hour ago".
 *   **Share Plus:** For sharing articles with others.
+
+<p align="center"><img src="https://img.shields.io/badge/Download-Now?style=for-the-badge&amp;logo=flutter&amp;logoColor=blue&amp;labelColor=Red&amp;color=%23F44336&amp;link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1NqqBQbkM8pyr8xictwnX4Pec8hTngu3Z%2Fview%3Fusp%3Dsharing" alt="shields"></p>
