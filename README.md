@@ -7,13 +7,13 @@
 <h2>Project Screenshots:</h2>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1RLnwtC1hdOdWtaLUcP67I3jcsQPYKDJ_/view?usp=sharing" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RNyVHeUnDbtPNLBWmGJhu5fZuSob8kgT/view?usp=sharing" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RPYdw-3cfEiGqfvzDe77taMNt642kLNQ/view?usp=sharing" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RS738ORjLfF2EX2VzAKR0YNlZ5jzycA0/view?usp=sharing" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RTCsnUGRNRJ3m_5stv-Q28qZ4iExHIah/view?usp=sharing" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RUgsK7lFjehDbeZi2mKMhljnfdWt7hKT/view?usp=sharing" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RUsikSaN6benlpOK70bnP3AsW2R5A-Om/view?usp=sharing" width="200" height="400"/>
+  <img src="https://easyorders.fra1.digitaloceanspaces.com/1730653279561195910.png" width="960" height="540"/>
+  <img src="https://easyorders.fra1.digitaloceanspaces.com/1730653145247429681.png" width="960" height="540"/>
+  <img src="https://easyorders.fra1.digitaloceanspaces.com/1730653153854503707.png" width="960" height="540"/>
+  <img src="https://easyorders.fra1.digitaloceanspaces.com/1730653163755463401.png" width="960" height="540"/>
+  <img src="https://easyorders.fra1.digitaloceanspaces.com/1730653175520502145.png" width="960" height="540"/>
+  <img src="https://easyorders.fra1.digitaloceanspaces.com/1730653190939863434.png" width="960" height="540"/>
+  <img src="https://easyorders.fra1.digitaloceanspaces.com/1730653201438787742.png" width="960" height="540"/>
 </p>
   
   
