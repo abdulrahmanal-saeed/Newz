@@ -7,13 +7,13 @@
 <h2>Project Screenshots:</h2>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1RLnwtC1hdOdWtaLUcP67I3jcsQPYKDJ_/view?usp=drivesdk" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RNyVHeUnDbtPNLBWmGJhu5fZuSob8kgT/view?usp=drivesdk" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RPYdw-3cfEiGqfvzDe77taMNt642kLNQ/view?usp=drivesdk" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RS738ORjLfF2EX2VzAKR0YNlZ5jzycA0/view?usp=drivesdk" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RTCsnUGRNRJ3m_5stv-Q28qZ4iExHIah/view?usp=drivesdk" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RUgsK7lFjehDbeZi2mKMhljnfdWt7hKT/view?usp=drivesdk" width="200" height="400"/>
-  <img src="https://drive.google.com/file/d/1RUsikSaN6benlpOK70bnP3AsW2R5A-Om/view?usp=drivesdk" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RLnwtC1hdOdWtaLUcP67I3jcsQPYKDJ_/view?usp=sharing" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RNyVHeUnDbtPNLBWmGJhu5fZuSob8kgT/view?usp=sharing" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RPYdw-3cfEiGqfvzDe77taMNt642kLNQ/view?usp=sharing" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RS738ORjLfF2EX2VzAKR0YNlZ5jzycA0/view?usp=sharing" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RTCsnUGRNRJ3m_5stv-Q28qZ4iExHIah/view?usp=sharing" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RUgsK7lFjehDbeZi2mKMhljnfdWt7hKT/view?usp=sharing" width="200" height="400"/>
+  <img src="https://drive.google.com/file/d/1RUsikSaN6benlpOK70bnP3AsW2R5A-Om/view?usp=sharing" width="200" height="400"/>
 </p>
   
   
